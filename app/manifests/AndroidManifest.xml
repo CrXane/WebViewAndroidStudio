@@ -10,7 +10,7 @@
         android:fullBackupContent="true"
         android:icon="@drawable/ic_launcher"
         android:label="aLbaneso"
-        android:theme="@style/AppTheme">
+        android:theme="@android:style/Theme.Black.NoTitleBar"
 
         <activity android:name=".MainActivity">
             <intent-filter>
